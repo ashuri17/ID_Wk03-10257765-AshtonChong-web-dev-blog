@@ -1,18 +1,22 @@
 ul,ol{
-    color: #9932CC;
-  }
-  h1{
-    color:darkorange;
-  }
-  h3{
-    color:indianred;
-  }
-  h2{
-    color:#8B008B;
-  }
-  img{
-    border-radius: 55%
-  }
- body{
-  background-color: lightgray
- }
+  color: #9932CC;
+  list-style:none;
+}
+h1{
+  color:darkorange;
+}
+h3{
+  color:indianred;
+}
+h2{
+  color:#8B008B;
+}
+img{
+  border-radius: 55%
+}
+
+body{
+  background-color: lightgray;
+  text-align:center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
